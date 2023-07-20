@@ -1,0 +1,8 @@
+langchain
+openai
+hnswlib
+chromadb
+pypdf
+tiktoken
+panel
+gradio==3.26.0
